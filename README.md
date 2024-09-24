@@ -1,2 +1,3 @@
-# Primeiro Repositorio
- 
+# Primeiro Repositorio !
+
+Repositório de aprendizagem
